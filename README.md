@@ -1,10 +1,17 @@
-"C:\Users\wilro\Downloads\White Minimalist Profile LinkedIn Bannerv3.png"
+### Hi there 👋, Wil Rodriguez
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](C:\Users\wilro\Downloads\White Minimalist Profile LinkedIn Bannerv3.png)
 
-"Hi, I'm Wil, a Data Analyst passionate about transforming data into actionable insights. 
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: SQL / Power BI / Data Visualization 
+Skills: SQL / Excel / Power BI
+
+- 🔭 I’m currently working on this page. 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rodriguezwil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/wil-rodriguez//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.wilrodriguez-pro.com/)  
+
+
+
+
 
