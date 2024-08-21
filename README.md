@@ -1,5 +1,5 @@
 ### Hi there 👋, Wil Rodriguez
-#### I am GitHub Readme Generator's creator
+
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D4E16AQGGB4EpRCkz4w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700307434416?e=1729728000&v=beta&t=bgra6SP15SF6YrV8oJfVV4NqPzlJP-tnDeWOnM6PtmY)
 
 "Hi, I'm Wil, a Data Analyst passionate about transforming data into actionable insights. 
