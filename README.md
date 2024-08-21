@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D4E16AQGGB4EpRCkz4w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700307434416?e=1729728000&v=beta&t=bgra6SP15SF6YrV8oJfVV4NqPzlJP-tnDeWOnM6PtmY)
+https://www.canva.com/design/DAF0JaspgbI/x_DMFCzKIY-MDBYOxtS3Pg/edit?utm_content=DAF0JaspgbI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 "Hi, I'm Wil, a Data Analyst passionate about transforming data into actionable insights. 
 
