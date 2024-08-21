@@ -1,4 +1,4 @@
-https://www.canva.com/design/DAF0JaspgbI/x_DMFCzKIY-MDBYOxtS3Pg/edit?utm_content=DAF0JaspgbI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+"C:\Users\wilro\Downloads\White Minimalist Profile LinkedIn Bannerv3.png"
 
 "Hi, I'm Wil, a Data Analyst passionate about transforming data into actionable insights. 
 
