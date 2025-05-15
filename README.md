@@ -33,10 +33,24 @@ With 20+ years in complex operations and customer-facing environments, I special
 
 ---
 
+---
+
 ### 🛠️ Tools & Technologies
 
-`AWS` | `Python` | `SQL` | `Postman` | `Power BI` | `Git` | `Notion` | `Jira` | `Confluence`  
-Telecom: SIP, Resporg, SMS/800 | IAM | OAuth | REST APIs | Agile & Scrum | Secure Architecture Principles
+**Languages & Tools:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+
+**Domain & Skills:**  
+`Telecom: SIP, Resporg, SMS/800` • `IAM & OAuth` • `REST APIs` • `Agile & Scrum` • `Secure Architecture Principles`
+
 
 ---
 
