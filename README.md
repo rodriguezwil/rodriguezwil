@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wilfredo Rodriguez
+# 👋 Hi, I'm Wil Rodriguez
 
 🚀 Product Manager | Project Manager | Cloud Architect in Training  
 🌎 Based in Boston, MA | Focused on Cloud, AI Strategies, APIs & Security  
