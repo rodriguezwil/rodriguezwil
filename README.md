@@ -53,6 +53,19 @@ With 20+ years in complex operations and customer-facing environments, I special
 
 ---
 
+### 📂 Featured Projects
+
+Here are a few real-world and in-progress projects I'm building:
+
+- 🛰️ [**Cloud Projects**](https://github.com/rodriguezwil/cloud-projects): AWS IAM policies, DR planning, and cloud infrastructure design
+- 🔁 [**API Integrations**](https://github.com/rodriguezwil/api-integrations): Python and Postman REST workflows to automate telecom ops
+- 📊 [**Power BI Dashboards**](https://github.com/rodriguezwil/powerbi-dashboards): Data visualizations for number migration, usage trends, and supplier cost comparisons
+- 📁 [**Product Docs**](https://github.com/rodriguezwil/product-docs): SOPs, process flows, and stakeholder briefings for rollout and change management
+- 📌 [**Project Portfolio**](https://github.com/rodriguezwil/project-portfolio): End-to-end projects demonstrating business impact and technical leadership
+
+> 🔨 *More projects being added weekly...*
+
+
 ### 📬 Contact Me
 
 - 📧 Email: wilrod38@gmail.com  
