@@ -43,6 +43,16 @@ With 20+ years in complex operations and customer-facing environments, I special
 
 ---
 
+### 📜 Certifications
+
+- 🟢 **AWS Certified Cloud Practitioner (CLF-C02)**  
+  *(In Progress: July 2025)*
+- 🟢 **Postman API Fundamentals Student Expert**  
+  *(Earned: June 2025)*
+- 🟡 **Power BI Data Analyst (In Progress)**
+- 🔜 **Google TensorFlow Developer Certificate (Planned)**
+
+
 ### 🧠 Focus Areas
 
 - ☁️ **Cloud Architecture & Infrastructure as a Service (AWS)**
