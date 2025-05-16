@@ -37,6 +37,7 @@ With 20+ years in complex operations and customer-facing environments, I special
 
 - ✅ AWS Cloud Practitioner Certification (CLF-C02)
 - ✅ REST API Development with Postman & Python
+  
 - 🟡 Power BI for data insights and executive dashboards
 - 🟡 Intro to AI Strategies for enterprise automation
 - 🟡 Cloud Security best practices (IAM, least privilege, encryption)
@@ -47,9 +48,12 @@ With 20+ years in complex operations and customer-facing environments, I special
 
 - 🟢 **AWS Certified Cloud Practitioner (CLF-C02)**  
   *(In Progress: July 2025)*
+  
 - 🟢 **Postman API Fundamentals Student Expert**  
   *(Earned: June 2025)*
+  
 - 🟡 **Power BI Data Analyst (In Progress)**
+  
 - 🔜 **Google TensorFlow Developer Certificate (Planned)**
 
 
