@@ -69,7 +69,6 @@ Here are a few real-world and in-progress projects I'm building:
 ### 📬 Contact Me
 
 - 📧 Email: wilrod38@gmail.com  
-- 🌐 Website: [wilrodriguez-pro.com](https://www.wilrodriguez-pro.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/wil-rodriguez)
 
 ---
