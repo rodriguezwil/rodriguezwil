@@ -1,3 +1,5 @@
+<img src="https://github.com/rodriguezwil/rodriguezwil/blob/main/wil-banner.png" alt="Wil Rodriguez GitHub Banner" width="100%">
+
 # 👋 Hi, I'm Wil Rodriguez
 
 🚀 Product Manager | Project Manager | Cloud Architect in Training  
