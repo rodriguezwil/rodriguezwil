@@ -87,6 +87,8 @@ Here are a few real-world and in-progress projects I'm building:
 
 ---
 
+📄 **Resume available upon request – contact me via [LinkedIn](https://www.linkedin.com/in/wil-rodriguez/) or email**
+
 > “Build with purpose. Lead with clarity. Secure and automate what matters.”
 
 
