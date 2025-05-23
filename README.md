@@ -7,6 +7,25 @@
 
 ---
 
+## 📂 Featured Repositories
+
+These repositories highlight my work in both project execution and product strategy across telecom, infrastructure, and SaaS environments:
+
+### 🏢 [Project Portfolio](https://github.com/rodriguezwil/project-portfolio)
+End-to-end project documentation from real-world initiatives such as facility launches, vendor migrations, and change management.
+
+- 📌 Facility launch risk registers and readiness checklists
+- 📈 Budget optimization and stakeholder planning docs
+- ✅ Real deliverables used in enterprise environments
+
+### 📊 [Product Docs](https://github.com/rodriguezwil/product-docs)
+Product strategy and planning documentation for telecom SaaS tools like a Number Management Dashboard.
+
+- 🧩 User stories, personas, and product overviews
+- 🚀 Release plans and feature lists
+- 💡 Concept-to-launch workflows for enterprise tools
+
+
 ### 🛠️ Tools & Technologies
 
 **Languages & Tools:**  
