@@ -7,6 +7,12 @@
 
 ---
 
+### 🧾 About Me
+
+I'm an experienced **Product and Project Manager** with a strong background in telecom, network solutions, and enterprise service delivery. I'm currently expanding my technical expertise to build scalable, automated, and secure solutions through **Cloud Architecture**, **AI-driven strategies**, and **API integrations**.
+
+With 20+ years in complex operations and customer-facing environments, I specialize in aligning business outcomes with technical roadmaps—transforming legacy workflows into **cloud-native**, **API-enabled**, and **secure digital ecosystems**.
+
 ## 📂 Featured Repositories
 
 These repositories highlight my work in both project execution and product strategy across telecom, infrastructure, and SaaS environments:
@@ -41,14 +47,6 @@ Product strategy and planning documentation for telecom SaaS tools like a Number
 
 **Domain & Skills:**  
 `Telecom: SIP, Resporg, SMS/800` • `IAM & OAuth` • `REST APIs` • `Agile & Scrum` • `Secure Architecture Principles`
-
----
-
-### 🧾 About Me
-
-I'm an experienced **Product and Project Manager** with a strong background in telecom, network solutions, and enterprise service delivery. I'm currently expanding my technical expertise to build scalable, automated, and secure solutions through **Cloud Architecture**, **AI-driven strategies**, and **API integrations**.
-
-With 20+ years in complex operations and customer-facing environments, I specialize in aligning business outcomes with technical roadmaps—transforming legacy workflows into **cloud-native**, **API-enabled**, and **secure digital ecosystems**.
 
 ---
 
