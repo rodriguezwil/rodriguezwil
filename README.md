@@ -22,7 +22,6 @@ Here are a few real-world and in-progress repositories from my portfolio:
 - 🛰️ **[cloud-projects](https://github.com/rodriguezwil/cloud-projects)**: IAM policies, Auto Scaling groups, budget controls, and CloudWatch dashboards  
 - 🔁 **[api-integrations](https://github.com/rodriguezwil/api-integrations)**: Python + Postman REST flows for telecom automation and monitoring  
 - 📊 **[powerbi-dashboards](https://github.com/rodriguezwil/powerbi-dashboards)**: Visualizations for usage, costs, migration, and SLA KPIs  
-- 🧩 **[product-docs](https://github.com/rodriguezwil/product-docs)**: SOPs, stakeholder flows, and product planning templates  
 - 📌 **[project-portfolio](https://github.com/rodriguezwil/project-portfolio)**: Change management docs, vendor playbooks, and risk matrices
 
 👉 I'm actively building scalable cloud & API solutions. Feel free to explore, connect, or reach out if you'd like to collaborate.
