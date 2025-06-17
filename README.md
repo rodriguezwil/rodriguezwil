@@ -19,13 +19,14 @@ With 20+ years of operational expertise, I specialize in aligning business needs
 
 Here are a few real-world and in-progress repositories from my portfolio:
 
-- 🛰️ [`cloud-projects`](https://github.com/rodriguezwil/cloud-projects): IAM policies, Auto Scaling groups, budget controls, and CloudWatch dashboards  
-- 🔁 [`api-integrations`](https://github.com/rodriguezwil/api-integrations): Python + Postman REST flows for telecom automation and monitoring  
-- 📊 [`powerbi-dashboards`](https://github.com/rodriguezwil/powerbi-dashboards): Visualizations for usage, costs, migration, and SLA KPIs  
-- 🧩 [`product-docs`](https://github.com/rodriguezwil/product-docs): SOPs, stakeholder flows, and product planning templates  
-- 📌 [`project-portfolio`](https://github.com/rodriguezwil/project-portfolio): Change management docs, vendor playbooks, and risk matrices
+- 🛰️ **[cloud-projects](https://github.com/rodriguezwil/cloud-projects)**: IAM policies, Auto Scaling groups, budget controls, and CloudWatch dashboards  
+- 🔁 **[api-integrations](https://github.com/rodriguezwil/api-integrations)**: Python + Postman REST flows for telecom automation and monitoring  
+- 📊 **[powerbi-dashboards](https://github.com/rodriguezwil/powerbi-dashboards)**: Visualizations for usage, costs, migration, and SLA KPIs  
+- 🧩 **[product-docs](https://github.com/rodriguezwil/product-docs)**: SOPs, stakeholder flows, and product planning templates  
+- 📌 **[project-portfolio](https://github.com/rodriguezwil/project-portfolio)**: Change management docs, vendor playbooks, and risk matrices
 
 > 🛠️ *New projects added weekly — focused on Cloud, APIs, and Automation*
+
 
 ---
 
