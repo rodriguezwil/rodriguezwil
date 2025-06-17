@@ -1,8 +1,8 @@
 <img src="https://github.com/rodriguezwil/rodriguezwil/blob/main/wil-banner.png" alt="Wil Rodriguez GitHub Banner" width="100%">
 
-# 👋 Hi, I'm Wilfredo Rodriguez
+# 👋 Hi, I'm Wil Rodriguez
 
-🚀 **Product & Project Manager | Cloud Architect in Training**  
+🚀 **Product & Project Manager | Cloud & API Solutions Designer**  
 📍 Boston, MA | Focused on **Cloud Infrastructure**, **API Automation**, **AI Strategy**, and **Security**
 
 ---
