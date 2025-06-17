@@ -25,6 +25,8 @@ Here are a few real-world and in-progress repositories from my portfolio:
 - 🧩 **[product-docs](https://github.com/rodriguezwil/product-docs)**: SOPs, stakeholder flows, and product planning templates  
 - 📌 **[project-portfolio](https://github.com/rodriguezwil/project-portfolio)**: Change management docs, vendor playbooks, and risk matrices
 
+👉 I'm actively building scalable cloud & API solutions. Feel free to explore, connect, or reach out if you'd like to collaborate.
+
 > 🛠️ *New projects added weekly — focused on Cloud, APIs, and Automation*
 
 
