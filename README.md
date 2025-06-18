@@ -9,7 +9,7 @@
 
 ### 🧾 About Me
 
-I’m a seasoned **Product and Project Manager** with deep experience in telecom, enterprise network delivery, and voice infrastructure modernization. I'm currently applying my leadership background toward architecting **cloud-first, API-enabled solutions** that are scalable, secure, and automation-ready.
+I’m a seasoned **IT & Telecom Project Manager** with deep experience in telecom, enterprise network delivery, and voice infrastructure modernization. I'm currently applying my leadership background toward architecting **cloud-first, API-enabled solutions** that are scalable, secure, and automation-ready.
 
 With 20+ years of operational expertise, I specialize in aligning business needs with cloud architecture and digital strategy — building platforms that modernize legacy systems and drive measurable outcomes.
 
