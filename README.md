@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Wil Rodriguez
 
-🚀 **Product & Project Manager | Cloud & API Solutions Designer**  
+🚀 **IT & Telecom Project Manager  | Cloud & API Solutions Designer**  
 📍 Boston, MA | Focused on **Cloud Infrastructure**, **API Automation**, **AI Strategy**, and **Security**
 
 ---
