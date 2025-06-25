@@ -16,19 +16,20 @@ I specialize in aligning business needs with technical execution — building mo
 
 ---
 
-### 📂 Featured Projects
+📁 Featured Projects
 
 Here are a few real-world and in-progress repositories from my portfolio:
 
-- 🛰️ **[cloud-projects](https://github.com/rodriguezwil/cloud-projects)**: IAM policies, Auto Scaling groups, budget controls, and CloudWatch dashboards  
-- 🔁 **[api-integrations](https://github.com/rodriguezwil/api-integrations)**: Python + Postman REST flows for telecom automation and monitoring  
-- 📊 **[powerbi-dashboards](https://github.com/rodriguezwil/powerbi-dashboards)**: Visualizations for usage, costs, migration, and SLA KPIs  
-- 📌 **[project-portfolio](https://github.com/rodriguezwil/project-portfolio)**: Case studies & planning docs for cloud resiliency, telecom modernization, and cost optimization
-
+- 📡 [resilient-webapp-aws](https://github.com/rodriguezwil/resilient-webapp-aws): 3-tier web app with S3 static frontend, Flask backend on EC2, and MySQL on RDS — built for cloud deployment & support readiness  
+- 🧠 [cloud-projects](https://github.com/rodriguezwil/cloud-projects): IAM policies, Auto Scaling groups, budget controls, and CloudWatch dashboards  
+- 📄 [api-integrations](https://github.com/rodriguezwil/api-integrations): Python + Postman REST flows for telecom automation and monitoring  
+- 📊 [powerbi-dashboards](https://github.com/rodriguezwil/powerbi-dashboards): Visualizations for usage, costs, migration, and SLA KPIs  
+- 📌 [project-portfolio](https://github.com/rodriguezwil/project-portfolio): Case studies & planning docs for cloud resiliency, telecom modernization, and cost optimization  
 
 👉 I'm actively building scalable cloud & API solutions. Feel free to explore, connect, or reach out if you'd like to collaborate.
 
 > 🛠️ *New projects added weekly — focused on Cloud, APIs, and Automation*
+
 
 
 ---
