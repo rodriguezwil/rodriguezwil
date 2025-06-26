@@ -1,4 +1,5 @@
-<img src="https://github.com/rodriguezwil/rodriguezwil/blob/main/wil-banner.png" alt="Wil Rodriguez GitHub Banner" width="100%">
+![IT_Telecom Project Manager](https://github.com/user-attachments/assets/09edd0dd-e63d-4cd9-ba9b-9e133e7b9638)
+
 
 # 👋 Hi, I'm Wil Rodriguez
 
