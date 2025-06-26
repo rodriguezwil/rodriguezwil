@@ -1,4 +1,4 @@
-![IT_Telecom Project Manager](https://github.com/user-attachments/assets/09edd0dd-e63d-4cd9-ba9b-9e133e7b9638)
+![GithubProfileBanner1](https://github.com/user-attachments/assets/a2b0f569-07dc-47b6-995d-7f18653bccb0)
 
 
 # 👋 Hi, I'm Wil Rodriguez
