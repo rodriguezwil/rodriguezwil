@@ -23,6 +23,7 @@ Here are a few real-world and in-progress repositories from my portfolio:
 
 - ☁️ [resilient-webapp-aws](https://github.com/rodriguezwil/resilient-webapp-aws): 3-tier web app with S3 static frontend, Flask backend on EC2, and MySQL on RDS — built for cloud deployment & support readiness
 - ☎️ [resilient-call-dr-system](https://github.com/rodriguezwil/resilient-call-dr-system): Cross-region failover system for toll-free calls using Route53, Lambda, EC2, and SNS — built for high availability and DR
+- 📂 [process-docs](https://github.com/rodriguezwil/process-docs): Operational documentation for vendor management, SOPs, troubleshooting, and process improvement — includes change management workflows and cost analysis.
 - 🧠 [cloud-projects](https://github.com/rodriguezwil/cloud-projects): IAM policies, Auto Scaling groups, budget controls, and CloudWatch dashboards
 - 📄 [api-integrations](https://github.com/rodriguezwil/api-integrations): Python + Postman REST flows for telecom automation and monitoring
 - 📊 [powerbi-dashboards](https://github.com/rodriguezwil/powerbi-dashboards): Visualizations for usage, costs, migration, and SLA KPIs
