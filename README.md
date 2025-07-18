@@ -8,11 +8,13 @@
 
 ---
 
-### 🧾 About Me
+🧾 About Me  
+I'm a seasoned IT & Telecom Project Manager transitioning into Cloud, API, Security, and Automation roles. I bring 20+ years of experience leading large-scale telecom and network modernization efforts, and I'm now focused on building secure, scalable, and cloud-native architectures using AWS, Python, and Power BI.
 
-I'm a seasoned IT & Telecom Project Manager transitioning into Cloud, API, and Automation roles. I bring 20+ years of experience leading large-scale telecom and network modernization efforts, and I'm now focused on designing secure, scalable, cloud-first architectures using AWS, Python, and Power BI.
+My current focus is on implementing security-first infrastructure — including Identity and Access Management (IAM), policy automation, compliance monitoring, and cloud-native incident response tooling. I design and deploy automated systems that protect data, ensure regulatory compliance, and support secure operational workflows.
 
-I specialize in aligning business needs with technical execution — building modern platforms that drive automation, cost optimization, and measurable outcomes.
+I specialize in aligning business objectives with technical execution — building modern platforms that drive security, automation, cost efficiency, and measurable business outcomes.
+
 
 
 ---
