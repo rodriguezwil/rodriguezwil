@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodriguezwil/rodriguezwil/main/BLAck%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20B..." alt="Wil Rodriguez Banner" width="100%" />
-</p>
+https://github.com/rodriguezwil/rodriguezwil/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png
 
 
 
