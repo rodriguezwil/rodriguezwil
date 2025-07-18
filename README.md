@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodriguezwil/rodriguezwil/main/minimal-banner.png" alt="Wil Rodriguez Banner" width="100%" />
-</p>
-
+minimal-banner.png.png
 
 
 
