@@ -17,22 +17,41 @@ I specialize in aligning business needs with technical execution — building mo
 
 ---
 
-📁 Featured Projects
+## 📂 Featured Projects
 
 Here are a few real-world and in-progress repositories from my portfolio:
 
-- ☁️ [resilient-webapp-aws](https://github.com/rodriguezwil/resilient-webapp-aws): 3-tier web app with S3 static frontend, Flask backend on EC2, and MySQL on RDS — built for cloud deployment & support readiness
-- ☎️ [resilient-call-dr-system](https://github.com/rodriguezwil/resilient-call-dr-system): Cross-region failover system for toll-free calls using Route53, Lambda, EC2, and SNS — built for high availability and DR
-- 📂 [process-docs](https://github.com/rodriguezwil/process-docs): Operational documentation for vendor management, SOPs, troubleshooting, and process improvement — includes change management workflows and cost analysis.
-- 🧠 [cloud-projects](https://github.com/rodriguezwil/cloud-projects): IAM policies, Auto Scaling groups, budget controls, and CloudWatch dashboards
-- 📄 [api-integrations](https://github.com/rodriguezwil/api-integrations): Python + Postman REST flows for telecom automation and monitoring
-- 📊 [powerbi-dashboards](https://github.com/rodriguezwil/powerbi-dashboards): Visualizations for usage, costs, migration, and SLA KPIs
-- 📌 [project-portfolio](https://github.com/rodriguezwil/project-portfolio): Case studies & planning docs for cloud resiliency, telecom modernization, and cost optimization
+- ☁️ [resilient-webapp-aws](https://github.com/rodriguezwil/resilient-webapp-aws): 3-tier web app with S3 static frontend, Flask backend on EC2, and MySQL on RDS — built for cloud deployment & support readiness.
 
-👉 I'm actively building scalable cloud & API solutions. Feel free to explore, connect, or reach out if you'd like to collaborate.
+- ☎️ [resilient-call-dr-system](https://github.com/rodriguezwil/resilient-call-dr-system): Cross-region failover system for toll-free calls using Route53, Lambda, EC2, and SNS — built for high availability and DR.
 
+- 🤖 [ai-ticket-classifier](https://github.com/rodriguezwil/aws-comprehend-ticket-tagger): Uses Amazon Comprehend to analyze and classify support tickets by urgency, sentiment, and topic.
 
-> 🛠️ *New projects added weekly — focused on Cloud, APIs, and Automation*
+- 📊 [cloud-cost-dashboard](https://github.com/rodriguezwil/powerbi-cloud-cost): Power BI dashboard for analyzing usage, cloud spend, and identifying cost-saving opportunities.
+
+- 🧠 [bedrock-log-summarizer](https://github.com/rodriguezwil/bedrock-log-summarizer): Summarizes security or system logs using Amazon Bedrock into readable executive-level briefings.
+
+---
+
+## 📁 Project Categories
+
+- 🔐 [security-automation](https://github.com/rodriguezwil/security-automation): IAM policy tools, GuardDuty alert automation, compliance scanners, and AI-based ticket triage.
+
+- 📊 [powerbi-dashboards](https://github.com/rodriguezwil/powerbi-dashboards): Visual dashboards for usage, cost optimization, SLA performance, and retention analytics.
+
+- 🔌 [api-integrations](https://github.com/rodriguezwil/api-integrations): Postman and Python REST flows for automation, reporting, and operational workflows.
+
+- ☁️ [cloud-projects](https://github.com/rodriguezwil/cloud-projects): Infrastructure scripts and tools for scaling, monitoring, and cloud-native deployments.
+
+- 🧪 [code-labs](https://github.com/rodriguezwil/code-labs): Standalone Python, SQL, and CLI scripts showcasing my logic building, API interaction, and scripting ability.
+
+---
+
+👉 I'm actively building scalable cloud, security, and automation solutions.  
+Feel free to explore, connect, or reach out if you'd like to collaborate.
+
+🛠️ *New projects added weekly — focused on Cloud, APIs, Security, and Automation.*
+
 
 
 
