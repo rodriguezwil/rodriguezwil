@@ -1,4 +1,7 @@
-![GithubProfileBanner1](https://github.com/user-attachments/assets/a2b0f569-07dc-47b6-995d-7f18653bccb0)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodriguezwil/rodriguezwil/main/Banner5.png" alt="Wil Rodriguez Banner" width="100%" />
+</p>
+
 
 
 # 👋 Hi, I'm Wil Rodriguez
