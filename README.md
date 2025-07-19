@@ -27,15 +27,21 @@ I specialize in aligning business objectives with technical execution — buildi
 
 Here are a few real-world and in-progress repositories from my portfolio:
 
-- ☁️ [resilient-webapp-aws](https://github.com/rodriguezwil/resilient-webapp-aws): 3-tier web app with S3 static frontend, Flask backend on EC2, and MySQL on RDS — built for cloud deployment & support readiness.
+- 🛡️ [guardduty-threat-detection](https://github.com/rodriguezwil/guardduty-threat-detection):  
+  Auto-detects AWS cloud threats using GuardDuty and sends real-time alerts via SNS. Includes optional Lambda function to automatically stop compromised EC2 instances.
 
-- ☎️ [resilient-call-dr-system](https://github.com/rodriguezwil/resilient-call-dr-system): Cross-region failover system for toll-free calls using Route53, Lambda, EC2, and SNS — built for high availability and DR.
+- ☁️ [resilient-webapp-aws](https://github.com/rodriguezwil/resilient-webapp-aws):  
+  3-tier web app with S3 static frontend, Flask backend on EC2, and MySQL on RDS — built for cloud deployment & support readiness.
 
-- 🤖 [ai-ticket-classifier](https://github.com/rodriguezwil/aws-comprehend-ticket-tagger): Uses Amazon Comprehend to analyze and classify support tickets by urgency, sentiment, and topic.
+- ☎️ [resilient-call-dr-system](https://github.com/rodriguezwil/resilient-call-dr-system):  
+  Cross-region failover system for toll-free calls using Route53, Lambda, EC2, and SNS — built for high availability and DR.
 
-- 📊 [cloud-cost-dashboard](https://github.com/rodriguezwil/powerbi-cloud-cost): Power BI dashboard for analyzing usage, cloud spend, and identifying cost-saving opportunities.
+- 🤖 [ai-ticket-classifier](https://github.com/rodriguezwil/ai-ticket-classifier):  
+  Uses Amazon Comprehend to analyze and classify support tickets by urgency, sentiment, and topic.
 
-- 🧠 [bedrock-log-summarizer](https://github.com/rodriguezwil/bedrock-log-summarizer): Summarizes security or system logs using Amazon Bedrock into readable executive-level briefings.
+- 🧠 [bedrock-log-summarizer](https://github.com/rodriguezwil/bedrock-log-summarizer):  
+  Summarizes security or system logs using Amazon Bedrock into readable executive-level briefings.
+
 
 ---
 
