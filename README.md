@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodriguezwil/rodriguezwil/main/minimal-banner.png" alt="Wil Rodriguez GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/rodriguezwil/rodriguezwil/main/minimal-banner1.png" alt="Wil Rodriguez GitHub Banner" width="100%" />
 </p>
 
 
